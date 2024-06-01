@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/add_friend"
+        android:title="添加好友"/>  <!--指定名字和图标-->
+
+    <item
+        android:id="@+id/delete_friend"
+        android:title="删除好友"/>
+
+    <item
+        android:id="@+id/query_friend"
+        android:title="查找好友"/>
+</menu>

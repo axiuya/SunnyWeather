@@ -1,0 +1,25 @@
+<resources>
+    <!--    <string name="app_language">语言</string>-->
+    <string name="app_name" translatable="false">仿造微信</string>
+    <string name="返回">返回</string>
+    <string name="发送">发送</string>
+    <string name="请输入用户名">请输入用户名</string>
+    <string name="输入密码仅为数字">输入密码字符和数字组合</string>
+    <string name="请重新输入密码">请重新输入密码</string>
+    <string name="性别">性别</string>
+    <string name="男">男</string>
+    <string name="女">女</string>
+    <string name="请输入生日">请输入生日：</string>
+    <string name="输入学校">输入学校：</string>
+    <string name="选择所在城市">选择所在城市</string>
+    <string name="agree">我已阅读并同意《网络安全协议》</string>
+    <string name="注册">注册</string>
+    <string name="清除">清除</string>
+    <string name="end">此软件由广东东软学院23软工专升本5班第二次实训
+                      \n 联系电话：0757-86684676
+                      \n 联系邮箱：huangwenwu@nuit.edu</string>
+    <string name="home">首页</string>
+    <string name="list">通讯录</string>
+    <string name="user">我的</string>
+    <!-- TODO: Remove or change this placeholder text -->
+</resources>

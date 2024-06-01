@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="返回">back</string>
+    <string name="发送">send</string>
+    <string name="请输入用户名">Please input username</string>
+    <string name="输入密码仅为数字">Please input password</string>
+    <string name="请重新输入密码">Please input password again</string>
+    <string name="性别">sex</string>
+    <string name="男">male</string>
+    <string name="女">female</string>
+    <string name="请输入生日">Please input birthday</string>
+    <string name="输入学校">Please input school</string>
+    <string name="选择所在城市">Please choose city</string>
+    <string name="agree">I have read and agree to the Cyber Security Agreement</string>
+    <string name="注册">register</string>
+    <string name="清除">clear</string>
+    <string name="end">This software is the second training of the 23rd class of Guangdong Neusoft University
+                      \n Contact number: 0757-86684676
+                      \n Contact Email: huangwenwu@nuit.edu</string>
+</resources>

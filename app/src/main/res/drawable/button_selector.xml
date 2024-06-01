@@ -1,0 +1,14 @@
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_focused="false" android:state_pressed="true"> <!-- 按下无焦点状态 -->
+        <shape android:shape="rectangle"> <!-- 这里明确指定了形状为矩形 -->
+            <solid android:color="#E7FABA"/> <!-- 深蓝色背景 -->
+            <corners android:radius="10dp"/> <!-- 设置圆角半径 -->
+        </shape>
+    </item>
+    <item> <!-- 默认状态（无焦点，未按下） -->
+        <shape android:shape="rectangle"> <!-- 圆角矩形 -->
+            <solid android:color="#D3D3D3"/> <!-- 更正了灰色背景的颜色值 -->
+            <corners android:radius="5dp"/> <!-- 设置圆角半径 -->
+        </shape>
+    </item>
+</selector>
